@@ -1,0 +1,17 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to BankEase loans related Prod APIs "
+  contactDetails:
+    name: "Richard He - Software Developer"
+    email: "hangqinghe@gmail.com"
+  onCallSupport:
+    - 44 7446848385
+  details:
+    goal: "for a better future for myself"
+    motivation: "no one will help me but myself"
+  beneficiary:
+    - me
+    - myself
+    - i
