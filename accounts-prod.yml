@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to BankEase accounts related new Production APIs"
+  message: "Welcome to BankEase accounts related git Production APIs"
   contactDetails:
     name: "Richard He - Software Developer"
     email: "hangqinghe@gmail.com"
