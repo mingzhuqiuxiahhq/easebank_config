@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to BankEase accounts related old Production APIs"
+  message: "Welcome to BankEase accounts related new Production APIs monitored by spring cloud bus monitor"
   contactDetails:
     name: "Richard He - Software Developer"
     email: "hangqinghe@gmail.com"
