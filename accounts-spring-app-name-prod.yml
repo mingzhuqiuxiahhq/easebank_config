@@ -1,7 +1,7 @@
 build:
   version: "1.1"
 
-accounts:
+accounts-spring-app-name:
   message: "Welcome to BankEase accounts related new Production webhook monitored by spring cloud bus monitor"
   contactDetails:
     name: "Richard He - Software Developer"
