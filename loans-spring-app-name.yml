@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-loans:
+loans-spring-app-name:
   message: "Welcome to BankEase loans related local APIs "
   contactDetails:
     name: "Richard He - Software Developer"
